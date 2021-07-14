@@ -4,7 +4,7 @@ body{
   font-family: 'Merriweather', serif;
   color: #40514E;
 }
- 
+
 h1{
   font-size: 5.925rem;
   margin: 5.5rem auto 0 auto;
@@ -26,8 +26,10 @@ h3{
 }
 hr{
   width: 5%;
-  border: dotted #EAF6F6 5px;
+  border: dotted #053742 5px;
   border-bottom: none;
+  border-left: none;
+  border-right: none;
   margin: 100px auto;
 }
 p{
@@ -53,13 +55,14 @@ a:hover{
   bottom: 300px;
 }
 .top-container{
-  background-color: #fde8cd;
+  background-color: #EAF6F6;
   position: relative;
   padding: 20px;
 }
 .middle-container{
   position: relative;
   padding: 50px;
+  background-color: #FFF1F1;
 }
 .bottom-container{
   background-color: #66BFBF;
