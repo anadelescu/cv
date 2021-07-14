@@ -79,12 +79,22 @@ a:hover{
   text-align: center;
   width: 50%;
 }
-.left-img{
+.volleyball-img{
   width: 25%;
   float: left;
   margin-right: 30px;
 }
-.right-img{
+.etti-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.automotive-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.istqb-img{
   width: 25%;
   float: right;
   margin-left: 30px;
