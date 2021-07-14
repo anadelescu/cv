@@ -79,16 +79,17 @@ a:hover{
   text-align: center;
   width: 50%;
 }
-.volleyball-img{
+.left-img{
   width: 25%;
   float: left;
-margin-right: 30px;
+  margin-right: 30px;
 }
-.etti-img{
+.right-img{
   width: 25%;
   float: right;
   margin-left: 30px;
 }
+
 .credits{
   color: #EAF6F6;
   font-size: 0.75rem;
